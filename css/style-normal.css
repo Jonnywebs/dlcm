@@ -1,0 +1,143 @@
+/*
+	Horizons by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+*/
+
+/* Basic */
+
+	header.major {
+		padding-bottom: 3em;
+	}
+	.churchlogo{
+		height: 100px;
+		width: 100px;
+	}
+	.images{
+		transition: 0.5s;
+	}
+	.images:hover{
+		transform: translateY(-3px);
+		box-shadow: 0 2px 5px rgba(0, 0, 0, 0.808);
+	}
+	.testy{
+		width: 100px;
+		height: 100px;
+		border-radius: 15px;
+	}
+	.submit{
+		margin-top: 40px;
+		position: relative;
+		left: 40%;
+		font-size: 20px;
+		border: 1px solid dodgerblue;
+		border-radius: 15in;
+		padding: 10px 20px;
+		color: #fff;
+		background-color:dodgerblue;
+	}
+	.submit:hover{
+		font-size: 21px;
+	}
+	.offering{
+		width: 80%;
+		height: 250px;
+		margin-bottom: 25px;
+	}
+	.mar{
+		font-size: 30px;
+		color: yellowgreen;
+		word-spacing: 7px;
+		letter-spacing: 4px;
+	}
+	.navbar{
+		display: flex;
+		justify-content:space-between;
+		transform: translateY(-80px);
+	}
+	.offering-text{
+		font-size: 20px;
+	}
+	.form{
+		margin-bottom: 15px;
+	}
+	.contact{
+		font-size: 20px;
+	}
+	.gender{
+		margin-bottom: 15px;
+	}
+	.verse{
+	color:grey;
+	}
+	.red{
+		color: red;
+		font-size: 22px;
+	}
+	.join{
+		color:dodgerblue;
+		font-size: 25px;
+	}
+	.account{
+		font-size: 20px;
+		font-weight: bold;
+		background-color: #f4f4f4;
+		padding: 15px;
+	}
+	.image2{
+		height: 180px;
+	}
+	.images{
+		height: 220px;
+	}
+	header h2 {
+		font-size: 2.5em;
+	}
+
+	header .byline {
+		font-size: 1.35em;
+	}
+
+/* Wrapper */
+
+	.wrapper.style3 {
+		padding: 2em 0em 3.6em 0em;
+	}
+
+		.wrapper.style3 span {
+			font-size: 1.6em;
+		}
+
+		.wrapper.style3 .button {
+			padding: 1.3em 3em;
+		}
+
+/* Header */
+
+	#header {
+		padding: 4em 0;
+	}
+
+	.homepage #header {
+		padding: 6em 0;
+	}
+
+/* Banner */
+
+	#banner {
+		padding: 3em 0 0 0;
+	}
+
+		#banner .major h2 {
+			font-size: 2.75em;
+		}
+
+		#banner .major .byline {
+			font-size: 1.35em;
+		}
+
+/* Footer */
+
+	#footer .major h2 {
+		font-size: 1.5em;
+	}
